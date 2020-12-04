@@ -1,0 +1,15 @@
+{
+  "name": "wasm-is-prime",
+  "collaborators": [
+    "Amina Eltahir <amina.a.ibrahim22@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasm_is_prime_bg.wasm",
+    "wasm_is_prime.js",
+    "wasm_is_prime.d.ts"
+  ],
+  "module": "wasm_is_prime.js",
+  "types": "wasm_is_prime.d.ts",
+  "sideEffects": false
+}
